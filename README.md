@@ -10,6 +10,7 @@
 - [List of Mastodon instances](https://joinmastodon.org) ([Alternative list](https://instances.social))
 - [List of apps for Mastodon](Using-Mastodon/Apps.md) (or just search for Mastodon in your app store of choice)
 - [User guide](Using-Mastodon/User-guide.md)
+- [Moderator guide](Running-Mastodon/Moderation-guide.md)
 
 ### [Using the API](Using-the-API)
 
